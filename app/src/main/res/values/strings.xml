@@ -8,4 +8,26 @@
     <string name="action_settings">Settings</string>
     <string name="create">Boîte à idées</string>
     <string name="apropos">à propos</string>
+    <string name="item_default_name">Nom de l\'article</string>
+    <string name="item_default_price">0 FCFA</string>
+    <string name="description">Tenue tres classe qui vous procure elegance et respect.</string>
+    <string name="h1">La nouvelle veste qui donne du peps à un look</string>
+    <string name="h2">Tenue africaine très classe qui vous procure elegance et respect.</string>
+    <string name="h3">Jacket unisexe très swagg pour se protéger contre le froid</string>
+    <string name="h4">Tenue classe, chic et fashion pour les gentlemen</string>
+    <string name="h5">Ensemble shirt-short très relaxant pour des sorties entre copains.</string>
+    <string name="h6">Pull collant très tendance en période d\'hivers </string>
+    <string name="h7">Tenue africaine très classe qui vous procure élégance et respect</string>
+    <string name="h8">Pull manches longues pour homme.</string>
+    <string name="h9">Si vous cherchez à etre un \'gentle-mara\', Tüküleurs vous conseille ce modèle \'grand-bubu\'.</string>
+    <string name="h10">Sweat-shirt très simple et décontracté </string>
+    <string name="h11"></string>
+    <string name="f1">Jacket unisexe très swagg pour se protéger contre le froid</string>
+    <string name="f2">Veste en wax avec manches déchirées pour femme</string>
+    <string name="f3">Besoin de changer de style, essayez Zeyna. Une tenue chic et relax pour les sorties entre copines</string>
+    <string name="f4">A la recherche de la robe parfaite, découvrez cette robe Hevish ultra féminine. </string>
+    <string name="f5">Pull manches longues pour femme.</string>
+    <string name="f6">Optez pour un look tendance avec cette chemise manches longues femme. </string>
+    <string name="f7">Tenue traditionnelle Sénégalaise pour nos jolies "Jongoma"</string>
+
 </resources>
